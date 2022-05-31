@@ -1,0 +1,16 @@
+# Data Files
+/data/606
+/data/605
+
+# LaTeX temp files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.nav
+*.snm
+*.toc
+*.tex
+
+# IPython Checkpoints
+/notebooks/.ipynb_checkpoints
